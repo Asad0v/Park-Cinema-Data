@@ -1,4 +1,18 @@
 {
+    "users" : [
+        {
+            "id" : 1,
+            "firstName" : "Rashid",
+            "lastName" : "Asadov",
+            "email": "rashid@example.com",
+            "phone" : "+994501234567",
+            "password" : "Admin123",
+            "role" : "super_admin",
+            "createAt" : "2025-09-07T00:00:00.000Z",
+            "isActive" : true,
+            "lastLogin" : null
+        }
+    ],
     "movies": [
         {
             "id": "6809f2e687f15d5253eeea86",
